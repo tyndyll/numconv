@@ -1,4 +1,4 @@
-#! Numconv
+# Numconv
 `numconv` is a simple package which converts between integers and the equivalent in words
 
 ## Usage
